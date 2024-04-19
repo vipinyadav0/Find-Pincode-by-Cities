@@ -413,7 +413,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 # spredsheet example: https://docs.google.com/spreadsheets/d/1k9b6bUdMQ-bBUIBPAoW539VGpQtTVwr77tT24c-98Ui/edit#gid=0
 
-SAMPLE_SPREADSHEET_ID = 'b6bUdMQ-bBUIBPAoW539VGpQtTVwr77tT24c-98Ui' # id from example
+SAMPLE_SPREADSHEET_ID = '' # id from example
 
 def update_google_sheet( pin_codes):  
     '''
